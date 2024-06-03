@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679635438108",
+    "project_id": "eyespecx-a8877",
+    "storage_bucket": "eyespecx-a8877.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679635438108:android:4ca8050b545c13961fedd9",
+        "android_client_info": {
+          "package_name": "com.example.eyespecx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG3VUrYgyAlR_Js3Gzziff5pol89JqllM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">eyeSpecX</string>
+    <string name="slide_1_title">Delivered quickly to \n your doorstep</string>
+    <string name="slide_2_title">Order from a wide range\n of Eye Stores</string>
+    <string name="slide_3_title">With a wide collection\n of Specs</string>
+    <string name="dot">•</string>
+    <string name="ready_to_order_from_your_favourite_eyewear">Ready to order from your favourite Eye Wear?</string>
+    <string name="get_started">Get Started</string>
+    <string name="developed_with_by_mukesh">Developed with ❤️ by Mukesh</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="we_will_send_you_an_one_time_password_on_this_mobile_number">We will send you an One Time Password on this mobile number</string>
+    <string name="_91">+91 - </string>
+    <string name="_123456789">123XXXXXXX</string>
+    <string name="get_otp">GET OTP</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="enter_the_otp_sent_to">Enter the OTP sent to</string>
+    <string name="didn_t_receive_the_otp">Didn\'t receive the OTP?</string>
+    <string name="verify">Verify</string>
+    <string name="resend_otp">RESEND OTP</string>
+</resources>
